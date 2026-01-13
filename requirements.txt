@@ -1,0 +1,11 @@
+langchain==0.3.7
+langchain-community==0.3.6
+langchain-huggingface==0.1.2
+chromadb==0.5.5
+pyMuPDF==1.24.10
+pytesseract==0.3.13
+pillow==10.4.0
+sentence-transformers==3.2.1
+python-dotenv==1.0.1
+streamlit==1.39.0
+ollama==0.3.3
